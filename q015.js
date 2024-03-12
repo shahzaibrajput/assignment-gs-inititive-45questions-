@@ -1,0 +1,5 @@
+var guest = ["kiran", "Musa", "Saleem", "Khalil"];
+console.log(guest[0] + "!" + " " + "I want to invite you to the Ali's Birthday Party Tomorrow at 9 PM.");
+console.log(guest[1] + "!" + " " + "I want to invite you to the Ali's Birthday Party Tomorrow at 9 PM.");
+console.log(guest[2] + "!" + " " + "I want to invite you to the Ali's Birthday Party Tomorrow at 9 PM.");
+console.log(guest[3] + "!" + " " + "I want to invite you to the Ali's Birthday Party Tomorrow at 9 PM.");
